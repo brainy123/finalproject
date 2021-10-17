@@ -1,0 +1,205 @@
+.maincontainer{
+    width: 100%;
+    height: 10vh;
+    background-color: #0e0d0d;
+    display: flex;
+  }
+  .login{
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 3%;
+  }
+  .login input{
+    border:none;
+    border-bottom:5px solid black;
+    outline:none;
+    margin-top: 4%;
+}
+  .madeinrw{
+      width: 50%;
+      height: 23vh;
+      margin-left: 25%;
+  }
+  .madeinrw p{
+      font-size: 20px;
+      color: black;
+  }
+  .caption h3{
+      font-size:40px;
+      margin-top:-40%;
+      color:rgb(226, 142, 15);
+  }
+  .maincontainer img{
+    width:9%;
+    height: 10vh;
+    padding:2px 1% 2px 3%;
+  }
+  .maincontainer h3{
+    font-size: 20px;
+    margin-top:15px;
+    color:rgb(252, 249, 249);
+  }
+#sign{
+    margin-left: 10%;
+}
+.leftcontents{
+  border: 2px solid black;
+  margin-top: 6%;
+  height: 50vh;
+  border-radius: 20px;
+}
+.leftcontents h1{
+  text-align: center;
+ margin-bottom: 4%;
+}
+.categories{
+  display: flex;
+  width:100%;
+  margin:3% 3% 3% 3%;
+}
+  .team{
+      padding:0px 3px;
+  }
+.signup-form-button{
+  background-color: rgb(99, 173, 164);
+}
+.footer{
+    margin-top: 2%;
+  display: flex;
+  height: 22vh;
+  color:white;
+  background-color: #000000;
+  bottom: 0;
+}
+.navs{
+    margin-left:30%;
+    width:40%;
+    margin-top:8px;
+    padding-top:1%;
+}
+.team{
+    display:flex;
+    margin-left: 10%;
+}
+.card{
+    width:30%;
+}
+.cardimage img{
+width:100%;
+
+padding:2%;
+margin-left: 20%;
+}
+.navs a{
+    color:white;
+    text-decoration: none;
+    padding:3%;
+    font-size: 15px;
+}
+.navs a:hover{
+    background-color:#fff;
+    color:#000000;
+    border-radius: 20px 0px;
+}
+.socialmedia{
+  width:40%;
+}
+.container h2{
+    width: 14%;
+    margin-top: 2%;
+     border-bottom: 5px solid black;
+    color: black;
+    background-color: white;
+}
+.container h2:hover{
+   font-size: 30px;
+}
+.logo a{
+  padding:2%;
+    font-size: 30px;
+    color:white;
+}
+.logo a:hover{
+    color:white;
+    border-radius:50%;
+   font-size: 40px;
+   opacity: .8;
+}
+.footer h4{
+    color:white;
+}
+.contactus{
+  width: 40%;
+}
+.address{
+  width: 40%
+}
+.contactus p{
+  text-align: center;
+}
+.signup input{
+    border:none;
+    border-bottom:5px solid black;
+    outline:none;
+    margin-top: 4%;
+}
+figure{
+    border:1px solid black;
+    width:17%;
+    padding: 2%;
+    background: transparent;
+}
+.figimage{
+    width:100%;
+    padding: 2%;
+}
+.figimage img{
+    width: 100%;
+    height: 30vh;
+}
+.figimage img:hover{
+    transition: all 1s ease;
+    transform: scale(1.09);
+
+}
+figcaption{
+  font-size: 20px;
+  text-align: center;  
+}
+.container{
+    width:100%;
+    height:160vh;
+}
+.sliding{
+    width:100%;
+    height:100vh;
+}
+.sliding img{
+    width: 100%;
+    height: 100%;
+}
+.signup{
+  width: 40%;
+  margin-left: 30%;
+  margin-top: 3%;
+}
+#components-layout-demo-custom-trigger .trigger {
+  padding: 0 24px;
+  font-size: 18px;
+  line-height: 64px;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+#components-layout-demo-custom-trigger .trigger:hover {
+  color: #1890ff;
+}
+#components-layout-demo-custom-trigger .logo {
+  height: 32px;
+  margin: 16px;
+  background: rgba(255, 255, 255, 0.3);
+}
+.site-layout .site-layout-background {
+  background: #fff;
+}
+  
+  
